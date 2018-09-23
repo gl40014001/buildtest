@@ -1,0 +1,8 @@
+# file: group_vars/windows.yml
+
+ansible_user: administrator
+ansible_password: Ricky4001!
+ansible_port: 5986
+ansible_connection: winrm
+ansible_winrm_server_cert_validation: ignore
+
